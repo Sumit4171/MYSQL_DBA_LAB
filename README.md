@@ -1,0 +1,11 @@
+- Hands-on lab for MySQL DBA: covers user access, secure installation, replication, and monitoring.
+- Shows how to create MySQL users with different access controls and manage privileges.
+- Explains securing MySQL after install (root password, removing test DB, disabling remote root).
+- Demonstrates running multiple MySQL instances on one server—each with unique settings, using replication setup (master/slave, GTID).
+- Installs Percona Monitoring and Management (PMM) server/client for database analytics.
+- Registers MySQL instances in PMM to visualize performance metrics and queries.
+- Includes optional Bash scripting for backup automation and health checks.
+- Helps DBAs and freelancers practice real-world MySQL deployment and troubleshooting.
+- Guide is practical for building modern, production-ready MySQL setups.
+- Adaptable and useful for skill-building or showcasing to clients/employers.
+
